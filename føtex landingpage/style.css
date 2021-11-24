@@ -1,0 +1,74 @@
+.container{
+    text-align: center;
+}
+.navbar-brand{
+    padding-left: 10px;
+}
+
+.navbar{
+    background-color: #1d3053e5;
+}
+.nav-item{
+    font-size: 20px;
+    
+}
+body{
+    background-color:#cdcdcb7e;
+    background-image: url(img/joe-woods-4Zaq5xY5M_c-unsplash.jpg);
+}
+
+.conatiner2{
+    display: flex;
+}
+.cookies{
+    text-align: center;
+    padding: 75px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.navbar-brand{
+    padding-right: 10px;
+}
+
+.card{
+    margin: 70px;
+}
+
+.container3{
+    width: 100%;
+    padding-top: 80px;
+
+}
+
+.col,h4{
+    padding: 0 100px 0 100px;
+}
+.col{
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: #131E39;
+    border: none;
+    border-radius: 50px;
+}
+
+@media screen and (min-width: 400px) {
+    .container3{
+        display:
+        justify-content: space-between;
+    }
+
+
+@media screen and (min-width: 400px) {
+    .flex{
+        display: flex;
+        justify-content: space-between;
+    }
+
